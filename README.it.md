@@ -12,7 +12,7 @@
 > [!IMPORTANT]
 > Questo repository è un fork di [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus). Mantiene la base e la licenza del progetto originale e include modifiche mirate al supporto hardware RFNM utilizzato da [`Rfnm-sdrpp-setup`](https://github.com/chiaraberti13/Rfnm-sdrpp-setup).
 
-<p align="center"><a href="SECURITY.md">Sicurezza</a> · <a href="license">Licenza upstream</a> · <a href="contributing.md">Contribuire</a></p>
+<p align="center"><a href="SECURITY.md">Sicurezza</a> · <a href="LICENSE">Licenza upstream</a> · <a href="CONTRIBUTING.md">Contribuire</a></p>
 
 ---
 
@@ -34,7 +34,7 @@ leggero e semplice da usare.
   <a href="https://github.com/chiaraberti13/SDRPlusPlus/stargazers"><img src="https://img.shields.io/github/stars/chiaraberti13/SDRPlusPlus?style=for-the-badge&color=blue" alt="Stelle GitHub"></a>
   <a href="https://github.com/chiaraberti13/SDRPlusPlus/network/members"><img src="https://img.shields.io/github/forks/chiaraberti13/SDRPlusPlus?style=for-the-badge&color=blue" alt="Fork GitHub"></a>
   <a href="https://github.com/chiaraberti13/SDRPlusPlus/issues"><img src="https://img.shields.io/github/issues/chiaraberti13/SDRPlusPlus?style=for-the-badge&color=orange" alt="Issue aperte"></a>
-  <a href="license"><img src="https://img.shields.io/github/license/chiaraberti13/SDRPlusPlus?style=for-the-badge&color=green" alt="Licenza"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/chiaraberti13/SDRPlusPlus?style=for-the-badge&color=green" alt="Licenza"></a>
 </p>
 
 <p align="center">
