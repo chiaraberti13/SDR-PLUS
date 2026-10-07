@@ -12,7 +12,7 @@
 > [!IMPORTANT]
 > This repository is a fork of [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus). It preserves the upstream project and licence while adding focused RFNM hardware-support changes used by [`Rfnm-sdrpp-setup`](https://github.com/chiaraberti13/Rfnm-sdrpp-setup).
 
-<p align="center"><a href="SECURITY.md">Security</a> · <a href="license">Upstream licence</a> · <a href="contributing.md">Contributing</a></p>
+<p align="center"><a href="SECURITY.md">Security</a> · <a href="LICENSE">Upstream licence</a> · <a href="CONTRIBUTING.md">Contributing</a></p>
 
 ---
 
